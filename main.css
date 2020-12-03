@@ -1,0 +1,21 @@
+* {
+    font-family: Rubik;
+    font-weight: 300;
+}
+.navHeading {
+    color: white;
+    font-weight: normal;
+    padding-left: 10px;
+}
+
+.display-text {
+    padding-top: 40px;
+    font-family: Rubik;
+    padding-bottom: 40px;
+    font-size: 18pt;
+    font-weight: 500;
+}
+
+.table {
+    font-family: Rubik;
+}
